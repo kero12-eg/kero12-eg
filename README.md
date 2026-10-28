@@ -6,9 +6,6 @@ Keep assets/, .github/workflows/, and output/ beside this README.
 
 <div align="center">
 
-<img src="assets/profile-banner.jpg" alt="Blue and violet developer banner" width="100%" />
-
-<br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&height=64&lines=Hi%2C+I%27m+Kirolos+Emad;Flutter+%26+Dart+Developer;Clean+Architecture+%7C+BLoC+%2F+Cubit;Building+Cross-Platform+Apps;Learning+Node.js+%26+Express" alt="Animated introduction" />
 
@@ -120,11 +117,11 @@ Keep assets/, .github/workflows/, and output/ beside this README.
       <b>Tech:</b> Flutter · Dio · REST API<br /><br />
       <a href="https://github.com/kero12-eg/NEWS_APP"><img src="https://img.shields.io/badge/VIEW-REPOSITORY-181717?style=for-the-badge&logo=github" alt="View News App repository" /></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🍽️ Meals App</h3>
-      Recipe and meal discovery app with categories, meal details, favorites, and local storage.<br /><br />
+   <td width="50%" valign="top">
+      <h3>📰 <a href="https://github.com/kero12-eg/meals_app">meals_app</a></h3>
+       Recipe and meal discovery app with categories, meal details, favorites, and local storage.<br /><br />
       <b>Tech:</b> Flutter · Dart · Local Storage<br /><br />
-      <a href="https://github.com/kero12-eg?tab=repositories"><img src="https://img.shields.io/badge/FIND-REPOSITORY-181717?style=for-the-badge&logo=github" alt="Find Meals App in GitHub repositories" /></a>
+      <a href="https://github.com/kero12-eg/meals_app"><img src="https://img.shields.io/badge/VIEW-REPOSITORY-181717?style=for-the-badge&logo=github" alt="View News App repository" /></a>
     </td>
   </tr>
   <tr>
