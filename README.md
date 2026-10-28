@@ -1,10 +1,9 @@
 <!--
-SETUP FIRST:
-1. Replace YOUR_GITHUB_USERNAME everywhere with your exact GitHub username.
-2. Replace YOUR_LINKEDIN_USERNAME and YOUR_PORTFOLIO_URL, or remove those two links if not available.
-3. Put this README.md in the root of a PUBLIC repository whose name exactly matches your GitHub username.
-4. Keep .github/workflows/snake.yml in that repository to enable the contribution snake animation.
-5. The typing headline and stats cards are loaded from external image services. They animate/update when those services are available.
+GitHub Profile README for kero12-eg.
+Repository name must be exactly: kero12-eg (Public).
+Keep assets/profile-banner.png and .github/workflows/snake.yml in the same repository.
+The typing headline, stats cards, and activity graph use external services and may occasionally be unavailable.
+Add LinkedIn and portfolio buttons only after replacing them with your real URLs.
 -->
 
 <div align="center">
@@ -18,19 +17,13 @@ SETUP FIRST:
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kero12-eg&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-Flutter%20%26%20Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter and Dart" />
   <img src="https://img.shields.io/badge/Backend-Node.js%20%2F%20Express-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js and Express" />
 </p>
 
 <a href="https://github.com/kero12-eg?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github" alt="GitHub repositories" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
@@ -96,24 +89,23 @@ SETUP FIRST:
 
 ## 🚀 Featured Projects
 
-> Add links here to repositories you have actually published. A good profile is stronger with a few real projects and clear READMEs than with example projects that are not yours.
+> Pin your strongest real repositories on your GitHub profile. Add project descriptions and links here as your repositories become ready to showcase.
 
-<!--
-When your repositories are ready, replace the note above with cards like these:
+<!-- Example project cards — replace with your actual repository names and details when ready:
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>📱 Project One</h3>
-      Briefly explain what it does and the main features.<br /><br />
+      Briefly explain what it does and its key features.<br /><br />
       <b>Tech:</b> Flutter · Dart · BLoC · REST API<br /><br />
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/REPOSITORY_ONE">View repository →</a>
+      <a href="https://github.com/kero12-eg/REPOSITORY_ONE">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>📰 Project Two</h3>
-      Briefly explain the problem it solves and what you built.<br /><br />
+      Explain the problem it solves and what you built.<br /><br />
       <b>Tech:</b> Flutter · Dio · API Integration<br /><br />
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/REPOSITORY_TWO">View repository →</a>
+      <a href="https://github.com/kero12-eg/REPOSITORY_TWO">View repository →</a>
     </td>
   </tr>
 </table>
@@ -122,16 +114,16 @@ When your repositories are ready, replace the note above with cards like these:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kero12-eg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kero12-eg&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=kero12-eg&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=38BDF8&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kero12-eg&bg_color=0D1117&color=38BDF8&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
 </div>
 
 ## 🐍 Contribution Snake
