@@ -129,7 +129,7 @@ Keep assets/, .github/workflows/, and output/ beside this README.
       <h3>🧾 Masiter</h3>
       A web management app for products, customers, and invoices, using Firebase Authentication and Cloud Firestore.<br /><br />
       <b>Tech:</b> Flutter Web · Firebase Authentication · Cloud Firestore<br /><br />
-      <a href="https://github.com/rimonnnn/masiter"><img src="https://img.shields.io/badge/OPEN-LIVE%20APP-7C3AED?style=for-the-badge&logo=firebase&logoColor=white" alt="Open Masiter live app" /></a>
+      <a href="https://github.com/rimonnnn/masiter"><img src="https://img.shields.io/badge/VIEW-REPOSITORY-181717?style=for-the-badge&logo=github" alt="View News App repository" /></a>
     </td>
   </tr>
 </table>
