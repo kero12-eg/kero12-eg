@@ -23,7 +23,7 @@ SETUP FIRST:
   <img src="https://img.shields.io/badge/Backend-Node.js%20%2F%20Express-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js and Express" />
 </p>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+<a href="https://github.com/kero12-eg?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github" alt="GitHub repositories" />
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
