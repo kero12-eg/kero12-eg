@@ -98,13 +98,13 @@ Keep assets/, .github/workflows/, and output/ beside this README.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 <a href="https://github.com/kero12-eg/Financi_UI">Financi_UI</a></h3>
+      <h3>💳 Financi UI</h3>
       Flutter finance UI project with onboarding, authentication screens, and reusable interface components.<br /><br />
       <b>Tech:</b> Flutter · Dart<br /><br />
       <a href="https://github.com/kero12-eg/Financi_UI"><img src="https://img.shields.io/badge/VIEW-REPOSITORY-181717?style=for-the-badge&logo=github" alt="View Financi UI repository" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛍️ <a href="https://github.com/kero12-eg/e_commerce_app">e_commerce_app</a></h3>
+      <h3>🛍️ E_commerce App</h3>
       Shopping app focused on product browsing, favorites, cart workflows, and user authentication.<br /><br />
       <b>Tech:</b> Flutter · Dart · Firebase<br /><br />
       <a href="https://github.com/kero12-eg/e_commerce_app"><img src="https://img.shields.io/badge/VIEW-REPOSITORY-181717?style=for-the-badge&logo=github" alt="View e-commerce repository" /></a>
@@ -112,13 +112,13 @@ Keep assets/, .github/workflows/, and output/ beside this README.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📰 <a href="https://github.com/kero12-eg/NEWS_APP">news_app</a></h3>
+      <h3>📰 News App/h3>
       Flutter news app featuring news browsing, categories, search, and API integration.<br /><br />
       <b>Tech:</b> Flutter · Dio · REST API<br /><br />
       <a href="https://github.com/kero12-eg/NEWS_APP"><img src="https://img.shields.io/badge/VIEW-REPOSITORY-181717?style=for-the-badge&logo=github" alt="View News App repository" /></a>
     </td>
    <td width="50%" valign="top">
-      <h3>📰 <a href="https://github.com/kero12-eg/meals_app">meals_app</a></h3>
+      <h3>🍽️ Meals App</h3>
        Recipe and meal discovery app with categories, meal details, favorites, and local storage.<br /><br />
       <b>Tech:</b> Flutter · Dart · Local Storage<br /><br />
       <a href="https://github.com/kero12-eg/meals_app"><img src="https://img.shields.io/badge/VIEW-REPOSITORY-181717?style=for-the-badge&logo=github" alt="View News App repository" /></a>
