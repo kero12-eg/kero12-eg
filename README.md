@@ -113,7 +113,7 @@ Keep assets/, .github/workflows/, and output/ beside this README.
       <h3>🛍️ E_commerce App</h3>
       Shopping app focused on product browsing, favorites, cart workflows, and user authentication.<br /><br />
       <b>Tech:</b> Flutter · Dart · Firebase<br /><br />
-      <a href="https://github.com/kero12-eg/e_commerce_app"><img src="https://img.shields.io/badge/VIEW-REPOSITORY-181717?style=for-the-badge&logo=github" alt="View e-commerce repository" /></a>
+      <a href="https://github.com/kero12-eg/e_commerce_app1"><img src="https://img.shields.io/badge/VIEW-REPOSITORY-181717?style=for-the-badge&logo=github" alt="View e-commerce repository" /></a>
     </td>
   </tr>
   <tr>
