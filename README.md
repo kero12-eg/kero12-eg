@@ -20,7 +20,7 @@ Keep assets/, .github/workflows/, and output/ beside this README.
   <a href="https://github.com/kero12-eg?tab=repositories">
     <img src="https://img.shields.io/badge/GITHUB-EXPLORE%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
-  <a href="https://github.com/kero12-eg/KERO_EMAD/blob/main/Kirolos_Emad_CV.pdf">
+  <a href="https://github.com/kero12-eg/KERO_EMAD/assets/cv.pdf">
     <img src="https://img.shields.io/badge/CV-VIEW%20PDF-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV PDF" />
   </a>
   <a href="https://masiter.web.app">
