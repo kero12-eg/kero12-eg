@@ -7,7 +7,7 @@ Keep assets/, .github/workflows/, and output/ beside this README.
 <div align="center">
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&height=64&lines=Hi%2C+I%27m+Kirolos+Emad;Flutter+%26+Dart+Developer;Clean+Architecture+%7C+BLoC+%2F+Cubit;Building+Cross-Platform+Apps;Learning+Node.js+%26+Express" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&height=64&lines=Hi%2C+I%27m+Kirolos+Emad;Flutter+%26+Dart+Developer;Clean+Architecture+%7C+BLoC+%2F+Cubit;Building+Cross-Platform+Apps;Building+Backend+using+Node.js+%26+Express" alt="Animated introduction" />
 
 <p>
   Flutter developer focused on clean, maintainable mobile apps, state management, and API integration.
