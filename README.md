@@ -8,10 +8,6 @@ Add LinkedIn and portfolio buttons only after replacing them with your real URLs
 
 <div align="center">
 
-<img src="assets/profile-banner.png" alt="Blue and violet developer banner" width="100%" />
-
-<br />
-
 <a href="https://github.com/kero12-eg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Kirolos+Emad+%F0%9F%91%8B;Flutter+Developer;Clean+Architecture+%7C+BLoC+%2F+Cubit;Building+Cross-Platform+Apps;Building+Backend+using+Node.js+%26+Express" alt="Animated typing introduction" />
 </a>
