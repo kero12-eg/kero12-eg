@@ -171,18 +171,6 @@ A practical backend direction for a small-store system:
 
 <!-- Removed the external activity-graph image because its service was returning a broken image in the profile. -->
 
-## 🐍 Contribution Snake
-
-The snake images are published to the `output` branch by the GitHub Actions workflow in `.github/workflows/snake.yml`.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kero12-eg/kero12-eg/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kero12-eg/kero12-eg/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/kero12-eg/kero12-eg/output/github-snake.svg" width="100%" />
-  </picture>
-</div>
-
 ---
 
 <div align="center">
