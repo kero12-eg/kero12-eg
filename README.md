@@ -11,13 +11,13 @@ Keep .github/workflows/snake.yml in the same repository. The workflow publishes 
 <p>Flutter developer focused on clean, maintainable mobile apps, state management, and API integration.</p>
 
 <p>
-  <a href="https://kero12-eg.github.io/KERO_EMAD/">
+  <a href="https://kero12-eg.github.io/">
     <img src="https://img.shields.io/badge/VISIT-PORTFOLIO-64748B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" />
   </a>
   <a href="https://github.com/kero12-eg?tab=repositories">
     <img src="https://img.shields.io/badge/GITHUB-EXPLORE%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
   </a>
-  <a href="https://kero12-eg.github.io/KERO_EMAD/assets/cv.pdf" target="_blank" rel="noreferrer">
+  <a href="https://kero12-eg.github.io/assets/cv.pdf" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/CV-VIEW%20PDF-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV PDF" />
   </a>
   <a href="https://masiter.web.app/">
