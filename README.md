@@ -1,26 +1,39 @@
 <!--
-GitHub Profile README for kero12-eg.
-Repository name must be exactly: kero12-eg (Public).
-Keep assets/profile-banner.png and .github/workflows/snake.yml in the same repository.
-The typing headline, stats cards, and activity graph use external services and may occasionally be unavailable.
-Add LinkedIn and portfolio buttons only after replacing them with your real URLs.
+GitHub Profile README for https://github.com/kero12-eg
+Upload this file to the ROOT of the public repository named exactly: kero12-eg.
+Keep assets/, .github/workflows/, and output/ beside this README.
 -->
 
 <div align="center">
 
-<a href="https://github.com/kero12-eg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Kirolos+Emad+%F0%9F%91%8B;Flutter+Developer;Clean+Architecture+%7C+BLoC+%2F+Cubit;Building+Cross-Platform+Apps;Building+Backend+using+Node.js+%26+Express" alt="Animated typing introduction" />
-</a>
+<img src="assets/profile-banner.jpg" alt="Blue and violet developer banner" width="100%" />
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&height=64&lines=Hi%2C+I%27m+Kirolos+Emad;Flutter+%26+Dart+Developer;Clean+Architecture+%7C+BLoC+%2F+Cubit;Building+Cross-Platform+Apps;Learning+Node.js+%26+Express" alt="Animated introduction" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=kero12-eg&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Flutter%20%26%20Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter and Dart" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%2F%20Express-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js and Express" />
+  Flutter developer focused on clean, maintainable mobile apps, state management, and API integration.
 </p>
 
-<a href="https://github.com/kero12-eg?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20Repositories-181717?style=for-the-badge&logo=github" alt="GitHub repositories" />
-</a>
+<p>
+  <a href="https://github.com/kero12-eg/KERO_EMAD">
+    <img src="https://img.shields.io/badge/PORTFOLIO-SOURCE-64748B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio source repository" />
+  </a>
+  <a href="https://github.com/kero12-eg?tab=repositories">
+    <img src="https://img.shields.io/badge/GITHUB-EXPLORE%20REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+  <a href="https://github.com/kero12-eg/KERO_EMAD/blob/main/Kirolos_Emad_CV.pdf">
+    <img src="https://img.shields.io/badge/CV-VIEW%20PDF-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV PDF" />
+  </a>
+  <a href="https://masiter.web.app">
+    <img src="https://img.shields.io/badge/MASITER-OPEN%20LIVE%20APP-7C3AED?style=for-the-badge&logo=firebase&logoColor=white" alt="Open Masiter live app" />
+  </a>
+</p>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=kero12-eg&style=for-the-badge&color=2962FF&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -30,8 +43,8 @@ Add LinkedIn and portfolio buttons only after replacing them with your real URLs
 
 - 🎓 Computer and Information student at Beni Suef National University.
 - 📱 Focused on Flutter and Dart for cross-platform mobile development.
-- 🧱 Practicing Clean Architecture, reusable widgets, and maintainable project structure.
-- 🔄 Working with BLoC/Cubit and Provider for state management.
+- 🧱 Practicing Clean Architecture and maintainable project structure.
+- 🔄 Using BLoC/Cubit and Provider for state management.
 - 🌐 Integrating REST APIs with Dio and handling loading, success, and error states.
 - 🔥 Using Firebase and local persistence where suitable.
 - 🛠️ Learning backend development with Node.js, Express.js, and MySQL.
@@ -85,37 +98,54 @@ Add LinkedIn and portfolio buttons only after replacing them with your real URLs
 
 ## 🚀 Featured Projects
 
-> Pin your strongest real repositories on your GitHub profile. Add project descriptions and links here as your repositories become ready to showcase.
-
-<!-- Example project cards — replace with your actual repository names and details when ready:
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 Project One</h3>
-      Briefly explain what it does and its key features.<br /><br />
-      <b>Tech:</b> Flutter · Dart · BLoC · REST API<br /><br />
-      <a href="https://github.com/kero12-eg/REPOSITORY_ONE">View repository →</a>
+      <h3>💳 <a href="https://github.com/kero12-eg/Financi_UI">Financi_UI</a></h3>
+      Flutter finance UI project with onboarding, authentication screens, and reusable interface components.<br /><br />
+      <b>Tech:</b> Flutter · Dart<br /><br />
+      <a href="https://github.com/kero12-eg/Financi_UI"><img src="https://img.shields.io/badge/VIEW-REPOSITORY-181717?style=for-the-badge&logo=github" alt="View Financi UI repository" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📰 Project Two</h3>
-      Explain the problem it solves and what you built.<br /><br />
-      <b>Tech:</b> Flutter · Dio · API Integration<br /><br />
-      <a href="https://github.com/kero12-eg/REPOSITORY_TWO">View repository →</a>
+      <h3>🛍️ <a href="https://github.com/kero12-eg/e_commerce_app">e_commerce_app</a></h3>
+      Shopping app focused on product browsing, favorites, cart workflows, and user authentication.<br /><br />
+      <b>Tech:</b> Flutter · Dart · Firebase<br /><br />
+      <a href="https://github.com/kero12-eg/e_commerce_app"><img src="https://img.shields.io/badge/VIEW-REPOSITORY-181717?style=for-the-badge&logo=github" alt="View e-commerce repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📰 <a href="https://github.com/kero12-eg/NEWS_APP">news_app</a></h3>
+      Flutter news app featuring news browsing, categories, search, and API integration.<br /><br />
+      <b>Tech:</b> Flutter · Dio · REST API<br /><br />
+      <a href="https://github.com/kero12-eg/NEWS_APP"><img src="https://img.shields.io/badge/VIEW-REPOSITORY-181717?style=for-the-badge&logo=github" alt="View News App repository" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍽️ Meals App</h3>
+      Recipe and meal discovery app with categories, meal details, favorites, and local storage.<br /><br />
+      <b>Tech:</b> Flutter · Dart · Local Storage<br /><br />
+      <a href="https://github.com/kero12-eg?tab=repositories"><img src="https://img.shields.io/badge/FIND-REPOSITORY-181717?style=for-the-badge&logo=github" alt="Find Meals App in GitHub repositories" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🧾 Masiter</h3>
+      A web management app for products, customers, and invoices, using Firebase Authentication and Cloud Firestore.<br /><br />
+      <b>Tech:</b> Flutter Web · Firebase Authentication · Cloud Firestore<br /><br />
+      <a href="https://masiter.web.app"><img src="https://img.shields.io/badge/OPEN-LIVE%20APP-7C3AED?style=for-the-badge&logo=firebase&logoColor=white" alt="Open Masiter live app" /></a>
     </td>
   </tr>
 </table>
--->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kero12-eg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kero12-eg&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kero12-eg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kero12-eg&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=kero12-eg&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=kero12-eg&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub contribution streak" />
 </div>
 
 <div align="center">
@@ -128,7 +158,7 @@ Add LinkedIn and portfolio buttons only after replacing them with your real URLs
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="output/github-snake.svg" />
-    <img alt="Animated snake following my GitHub contributions" src="output/github-snake.svg" width="100%" />
+    <img alt="Contribution snake animation" src="output/github-snake.svg" width="100%" />
   </picture>
 </div>
 
